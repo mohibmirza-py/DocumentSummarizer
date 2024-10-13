@@ -32,7 +32,7 @@ This app is primarily designed for:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/document-analysis-app.git
+   git clone https://github.com/mohibmirza-py/DocumentSummarizer.git
    cd document-analysis-app
    ```
 
