@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+python-dotenv
+PyPDF2
+python-docx
+typing-extensions
+zipfile36
+tempfile
